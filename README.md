@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abide</h1>
 <h3 align="center">A passionate frontend developer intern from Turkey</h3>
 
-- 🔭 I’m currently working on **Galaksiya Bilişim Teknolojileri**
-
 - 🌱 I’m currently learning **Node.js, Typescript, React.js, Javascript**
 
 - 📫 How to reach me **abiderlkr@hotmail.com**
